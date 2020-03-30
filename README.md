@@ -11,6 +11,10 @@ I will upload here some jupyter notebooks and pdf files that may help to underst
 
 This notebook shows how given the limb darkening we can estimate the temperature dependence in the solar photosphere.
 
+### [Exponential integral in Python](Exponential%20integral%20in%20Python.ipynb)
+
+This notebook shows how to use Python SciPy library to compute exponential integrals and integrate simple lambda operator.
+
 ## Exercises
 
 ### [FAL-C Solar atmosphere model](FAL-C%20Solar%20atmosphere%20model.ipynb)
