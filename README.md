@@ -10,3 +10,9 @@ I will upload here some jupyter notebooks and pdf files that may help to underst
 ### [Empirical model of the Sun](Empirical%20model%20of%20the%20Sun.ipynb)
 
 This notebook shows how given the limb darkening we can estimate the temperature dependence in the solar photosphere.
+
+## Exercises
+
+### [FAL-C Solar atmosphere model](FAL-C%20Solar%20atmosphere%20model.ipynb)
+
+This notebook explore a FALC solar atmopshere model and includes seven exercises that help to undersand the physics incorporated in this modelling. It is based on B. Rutten exercises availible at [webpage](https://www.staff.science.uu.nl/~rutte101/).
