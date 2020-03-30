@@ -15,4 +15,4 @@ This notebook shows how given the limb darkening we can estimate the temperature
 
 ### [FAL-C Solar atmosphere model](FAL-C%20Solar%20atmosphere%20model.ipynb)
 
-This notebook explore a FALC solar atmopshere model and includes seven exercises that help to undersand the physics incorporated in this modelling. It is based on B. Rutten exercises availible at [webpage](https://www.staff.science.uu.nl/~rutte101/).
+This notebook explore a FALC solar atmopshere model and includes eight exercises that help to undersand the physics incorporated in this modelling. It is based on B. Rutten exercises availible at [webpage](https://www.staff.science.uu.nl/~rutte101/).
