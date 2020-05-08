@@ -20,3 +20,7 @@ This notebook shows how to use Python SciPy library to compute exponential integ
 ### [FAL-C Solar atmosphere model](FAL-C%20Solar%20atmosphere%20model.ipynb)
 
 This notebook explore a FALC solar atmopshere model and includes eight exercises that help to undersand the physics incorporated in this modelling. It is based on B. Rutten exercises availible at [webpage](https://www.staff.science.uu.nl/~rutte101/).
+
+### [Short exercises collection](Short%20exercises%20collection.ipynb)
+
+This notebook is a set of short exercises about radiative transfer equation. Most of them comes from book of D. Mihalas "Stellar Atmospheres".
